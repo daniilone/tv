@@ -180,8 +180,8 @@ http://moobl.ru/hls/SciFi_hd.m3u8
 #http://92.100.39.32:2289/play/kinomiks/index.m3u8
 http://moobl.ru/hls/Kinomix_HD.m3u8
 
-#EXTINF:-1 tvg-id="542" tvg-logo="http://epg.it999.ru/img2/542.png" group-title="Кино",Кинохит HD
-#http://moobl.ru/hls/Kinohit_hd.m3u8
+#EXTINF:-1 tvg-id="542" tvg-logo="http://epg.it999.ru/img2/542.png" group-title="Кино",Кинохит
+http://moobl.ru/hls/Kinohit.m3u8
 
 #EXTINF:-1 tvg-id="566" tvg-logo="http://epg.it999.ru/img2/566.png" group-title="Кино",Кинопремьера HD
 #http://95.217.196.109:8081/russia/kinopremyera/chunks.m3u8
@@ -192,10 +192,10 @@ http://moobl.ru/hls/Kinopremyera_hd.m3u8
 http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="987" tvg-logo="http://epg.it999.ru/img2/987.png" group-title="Кино",Киносемья HD
-#http://moobl.ru/hls/Kinosemya_hd.m3u8
+http://moobl.ru/hls/Kinosemya_hd.m3u8
 
 #EXTINF:-1 tvg-id="462" tvg-logo="http://epg.it999.ru/img2/462.png" group-title="Кино",Киносвидание HD
-#http://moobl.ru/hls/Kinosvidanie_hd.m3u8
+http://moobl.ru/hls/Kinosvidanie_hd.m3u8
 
 
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1037.png",Кино ТВ
@@ -339,18 +339,21 @@ https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
 
 
 
-
-
+#EXTINF:-1 tvg-id="1722" tvg-logo="http://epg.it999.ru/img2/1722.png" group-title="Музыкальные",MTV Club
+http://91.210.251.166:4643/udp/239.0.1.50:4000
 
 #EXTINF:-1 tvg-id="382" tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыкальные",MTV Live
+#http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
 
 #EXTINF:-1 tvg-id="1723" tvg-logo="http://epg.it999.ru/img2/1723.png" group-title="Музыкальные",MTV Hits
-http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/153/index.m3u8
+#http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/153/index.m3u8
+http://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="681" tvg-logo="http://epg.it999.ru/img2/681.png" group-title="Музыкальные",Europa Plus TV HD
 http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9257/index.m3u8
 
 #EXTINF:-1 tvg-id="897" tvg-logo="http://epg.it999.ru/img2/897.png" group-title="Музыкальные",МУЗ-ТВ HD
-#https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
-http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/19228/index.m3u8
+#http://moobl.ru/hls/MuzTV.m3u8
+https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
+#http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/19228/index.m3u8
