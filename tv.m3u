@@ -73,7 +73,6 @@ http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2005" tvg-logo="http://epg.it999.ru/img2/2005.png" group-title="Спортивные",Матч! Футбол 3 HD
 #http://bl.uma.media/live/126865/HLS/1153024_1/2/1/playlist.m3u8
-#http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/2408/index.m3u8
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 
 
@@ -182,20 +181,21 @@ http://moobl.ru/hls/SciFi_hd.m3u8
 http://moobl.ru/hls/Kinomix_HD.m3u8
 
 #EXTINF:-1 tvg-id="542" tvg-logo="http://epg.it999.ru/img2/542.png" group-title="Кино",Кинохит HD
-http://moobl.ru/hls/Kinohit_hd.m3u8
+#http://moobl.ru/hls/Kinohit_hd.m3u8
 
 #EXTINF:-1 tvg-id="566" tvg-logo="http://epg.it999.ru/img2/566.png" group-title="Кино",Кинопремьера HD
 #http://95.217.196.109:8081/russia/kinopremyera/chunks.m3u8
 http://moobl.ru/hls/Kinopremyera_hd.m3u8
 
-#EXTINF:-1 tvg-id="821" tvg-logo="http://epg.it999.ru/img2/821.png" group-title="Кино",Кинокомедия HD
-http://moobl.ru/hls/Kinokomediya_hd.m3u8
+#EXTINF:-1 tvg-id="821" tvg-logo="http://epg.it999.ru/img2/821.png" group-title="Кино",Кинокомедия
+#http://moobl.ru/hls/Kinokomediya_hd.m3u8
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
 
 #EXTINF:-1 tvg-id="987" tvg-logo="http://epg.it999.ru/img2/987.png" group-title="Кино",Киносемья HD
-http://moobl.ru/hls/Kinosemya_hd.m3u8
+#http://moobl.ru/hls/Kinosemya_hd.m3u8
 
 #EXTINF:-1 tvg-id="462" tvg-logo="http://epg.it999.ru/img2/462.png" group-title="Кино",Киносвидание HD
-http://moobl.ru/hls/Kinosvidanie_hd.m3u8
+#http://moobl.ru/hls/Kinosvidanie_hd.m3u8
 
 
 ##EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/1037.png",Кино ТВ
@@ -297,7 +297,6 @@ http://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/223.png",Nat Geo Wild HD
 #EXTGRP:Познавательные
-#http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9264/index.m3u8
 http://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
 
 
@@ -313,7 +312,7 @@ http://ucdn.beetv.kz/btv/live/hls/000001496.m3u8
 http://moobl.ru/hls/Discovery_science_hd.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Познавательные",Приключения HD
-http://193.33.240.8:8080/teletravel_hd/index.m3u8
+https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
 
 #EXTINF:-1 tvg-id="2310" tvg-logo="http://epg.it999.ru/img2/2310.png" group-title="Познавательные",Первый космический
 #EXTVLCOPT:http-user-agent=smartlabs
@@ -343,7 +342,8 @@ https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="382" tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыкальные",MTV Live
+https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
 
 #EXTINF:-1 tvg-id="1723" tvg-logo="http://epg.it999.ru/img2/1723.png" group-title="Музыкальные",MTV Hits
 http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/153/index.m3u8
