@@ -16,7 +16,7 @@ http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/18.png" group-title="Федеральные",РЕН ТВ HD
 https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 
-#EXTINF:-1 tvg-id="2399" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Федеральные",Дождь HD
+#EXTINF:-1 tvg-id="2399" tvg-logo="http://epg.it999.ru/img2/2399.png" group-title="Федеральные",Дождь HD
 http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9122/index.m3u8
 
 #EXTINF:-1 tvg-id="743" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Федеральные",РБК HD
@@ -63,17 +63,20 @@ http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9107/index.m3u8
 http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9101/index.m3u8
 
 
-
-
-#EXTINF:-1 tvg-id="4774" tvg-logo="http://epg.it999.ru/img2/4774.png" group-title="Детские", Карусель
-#https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
-http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9186/index.m3u8
-
+#EXTINF:-1 tvg-id="1332" tvg-logo="http://epg.it999.ru/img2/1332.png" group-title="Детские", Мульт HD
+http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/921/index.m3u8
 
 #EXTINF:-1 tvg-id="323" tvg-logo="http://epg.it999.ru/img2/323.png" group-title="Детские", 2x2 HD
 #EXTVLCOPT:http-user-agent=SmartTV
 #http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9139/index.m3u8
+
+#EXTINF:-1 tvg-id="601" tvg-logo="http://epg.it999.ru/img2/601.png" group-title="Детские", Cartoon Network HD
+http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9261/index.m3u8
+
+#EXTINF:-1 tvg-id="4774" tvg-logo="http://epg.it999.ru/img2/4774.png" group-title="Детские", Карусель
+#https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
+http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9186/index.m3u8
 
 #EXTINF:-1 tvg-id="423" tvg-logo="http://epg.it999.ru/img2/423.png" group-title="Детские", Nickelodeon HD
 #https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
@@ -391,6 +394,10 @@ http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/11034/index.m3u8
 #https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
 http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9013/index.m3u8
 
+#EXTINF:-1 tvg-id="2155" tvg-logo="http://epg.it999.ru/img2/2155.png" group-title="Познавательные", English Club TV HD
+http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/9299/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="1021" tvg-logo="http://epg.it999.ru/img2/1722.png" group-title="Музыкальные",MTV HD
 http://dlungj0c.megatv.fun/iptv/NQTB7RKPVW76XW/2130/index.m3u8
@@ -419,17 +426,17 @@ https://okkotv-live.cdnvideo.ru/channel/MuzTV/480p.m3u8
 
 
 
-#EXTINF:-1 tvg-id="3212" tvg-logo="http://epg.it999.ru/img2/3212.png" group-title="18+", Pornstar Red TV
-http://live.redtraffic.xyz/pornstar.m3u8
+##EXTINF:-1 tvg-id="3212" tvg-logo="http://epg.it999.ru/img2/3212.png" group-title="18+", Pornstar Red TV
+#http://live.redtraffic.xyz/pornstar.m3u8
 
-#EXTINF:-1 tvg-id="3146" tvg-logo="http://epg.it999.ru/img2/3146.png" group-title="18+", Big Tits Adult TV
-http://live.redtraffic.xyz/bigtits.m3u8
+##EXTINF:-1 tvg-id="3146" tvg-logo="http://epg.it999.ru/img2/3146.png" group-title="18+", Big Tits Adult TV
+#http://live.redtraffic.xyz/bigtits.m3u8
 
-#EXTINF:-1 tvg-id="3144" tvg-logo="http://epg.it999.ru/img2/3144.png" group-title="18+", Big Ass Adult TV HD
-http://live.redtraffic.xyz/bigass.m3u8
+##EXTINF:-1 tvg-id="3144" tvg-logo="http://epg.it999.ru/img2/3144.png" group-title="18+", Big Ass Adult TV HD
+#http://live.redtraffic.xyz/bigass.m3u8
 
-#EXTINF:-1 tvg-id="3220" tvg-logo="http://epg.it999.ru/img2/3220.png" group-title="18+", Russian Adult TV
-http://cdn.adultiptv.net/russian.m3u8
+##EXTINF:-1 tvg-id="3220" tvg-logo="http://epg.it999.ru/img2/3220.png" group-title="18+", Russian Adult TV
+#http://cdn.adultiptv.net/russian.m3u8
 
-#EXTINF:-1 tvg-id="3195" tvg-logo="http://epg.it999.ru/img2/3195.png" group-title="18+", Latina Red TV
-http://cdn.adultiptv.net/latina.m3u8
+##EXTINF:-1 tvg-id="3195" tvg-logo="http://epg.it999.ru/img2/3195.png" group-title="18+", Latina Red TV
+#http://cdn.adultiptv.net/latina.m3u8
